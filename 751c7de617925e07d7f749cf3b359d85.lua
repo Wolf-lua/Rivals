@@ -428,6 +428,7 @@ local Button = Tab:CreateButton({
  })
 
 
- local Tab = Window:CreateTab("Info | Authors", 4483362458) -- Title, Image
+ local Tab = Window:CreateTab("Social", 4483362458) -- Title, Image
 
- local Label = Tab:CreateLabel("Authors: Gersda", 4483362458, Color3.fromRGB(0, 0, 0), false) -- Title, Icon, Color, IgnoreTheme
+ local Label = Tab:CreateLabel("TikTok : @SpyderGersda", 4483362458, Color3.fromRGB(0, 0, 0), false) -- Title, Icon, Color, IgnoreTheme
+ local Label = Tab:CreateLabel("Twitch : @SpyderGersda", 4483362458, Color3.fromRGB(0, 0, 0), false) -- Title, Icon, Color, IgnoreTheme
